@@ -1,3 +1,8 @@
+#OBJETIVO:          OBTENER LA COMBINACIÓN QUE MAXIMICE EL RENDIMIENTO DENTRO DE UN PORTAFOLIO DE INVERSIÓN 
+#FECHA:             Marzo 2024
+#REALIZÓ:           LIC. Sánchez Santana Angel
+
+
 import pandas as pd  # Importamos la librería pandas para el manejo de datos
 import numpy as np  # Importamos la librería numpy para operaciones numéricas
 import matplotlib.pyplot as plt  # Importamos la librería matplotlib para graficar
